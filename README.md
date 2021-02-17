@@ -1,5 +1,5 @@
 # Double-Submit-Cookies-Pattern
-SSS Assignment
+
 
 #Malindu Attygala
 #IT17174404
